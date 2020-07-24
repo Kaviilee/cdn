@@ -7,4 +7,3 @@
 # version 你的release版本
 https://cdn.jsdelivr.net/gh/${yourname}/${repo}@${version}
 ```
-
